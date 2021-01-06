@@ -1,0 +1,2 @@
+# eventbus
+Browser event bus
